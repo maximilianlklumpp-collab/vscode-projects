@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.iml
+
+# Node.js / Web-Projekte
+node_modules/
+
+# Allgemein
+*.log
