@@ -1,0 +1,3 @@
+[submodule "web/dashboard_frontend"]
+	path = web/dashboard_frontend
+	url = https://github.com/maximilianlklumpp-collab/dashboard_frontend.git
